@@ -7,7 +7,7 @@ description: "Some short description of your blog can go here." # This will show
 email: "example@mail.com"
 # twitter_username: "twitteruser"
 github_username: "dcwahl"
-linkedin_username: "Diego Wahl"
+linkedin_username: "diegowahl"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -30,6 +30,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+header_pages:
+  - _pages/about.md
+
+include:
+  - _pages
+
 titles_from_headings:
   strip_title: true
   collections: true
@@ -43,3 +49,4 @@ defaults:
 
 minima:
   skin: dark
+
