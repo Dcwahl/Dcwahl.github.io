@@ -42,8 +42,7 @@ Work Experience
 ----------
 
 **Epic Systems: Technical Service Engineer (Provider Reimbursement/Professional Billing)**
-
-September 2019 - March 2021 
+:   September 2019 - March 2021 
 
 * Provided technical support for provider compensation systems at a number of large healthcare systems. 
 * Meeting management, issue tracking and resolution, as well as project management to help support regular upgrades as well as push for best practices.
@@ -84,8 +83,8 @@ Misc
      * English (native speaker)
      * Spanish (proficient)
 
-* What I (currently) do for fun:
 
+* What I (currently) do for fun:
      * Cooking~~
          * Home-made pasta
          * BBQ/Smoking
