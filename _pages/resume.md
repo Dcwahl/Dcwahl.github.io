@@ -3,10 +3,8 @@ Diego Wahl
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+diegowahl@gmail.com
+301-332-8937
 
 Skills
 ---------
@@ -22,29 +20,22 @@ Skills
 * MongoDB
 * JSON, CSS, HTML
 * GCP (various)
-* MATLAB
-* R
+
 
 #### Occasional Use/Scarred into Memory:
 * Intersystems Cache (M/MUMPS)
 * LaTeX
-
+* MATLAB
+* R
 
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2019 
+:   **BA** Applied Math; Washington University in St. Louis
+    **BA** Physics; Washington University in St. Louis
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
