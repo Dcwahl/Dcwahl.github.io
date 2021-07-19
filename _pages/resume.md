@@ -61,11 +61,13 @@ Technical Experience
 
 ### Data Science/ML Projects:
 
-#### EMNIST Classification
-Built variety of models to solve problem of hadnwritten digit classification in the context of the 62 class EMNIST dataset. Approaches included:
+In addition to anything on this blog, I also have a variety of projects that I worked on as a part of the Metis Data Science bootcamp. Some of the works that I am rather proud of include;
 
-* Applied **unsupervised learning** techniques (TSNE, PCA, MI) in order to drive simple classification models such as standard **Logistic Regression, Random Forest, XGBoost** with a acceptable accuracy and runtime.
-* **Convolutional Neural Network** with **Keras**
+#### EMNIST Classification
+Built variety of models to solve problem of handwritten digit classification in the context of the 62 class EMNIST dataset. Approaches included:
+
+* **Unsupervised learning** techniques (TSNE, PCA, MI) in order to drive simple classification models such as standard **Logistic Regression, Random Forest, XGBoost**. Emphasis was placed on dimensionality reduction and feature selection techniques in order to maintain both reasonable runtime and accuracy.
+* **Convolutional Neural Network** in **Keras**
 
 #### Twitter Data Pipeline
 Implemented data pipeline to intake tweets via Twitter API and Tweepy, perform analysis in Python, and interface with **MongoDB**, with particular goal of permitting large scale data handling.
@@ -73,6 +75,33 @@ Implemented data pipeline to intake tweets via Twitter API and Tweepy, perform a
 #### Twitter NLP; exploring political discourse
 Applied variety of unsupervised learning techniques, including (though not limited to) **VADER** sentiment analysis, **CorEx** topic modeling, as well as **Scattertext** and **WordCloud** Python packages for visualization, in order to explore, compare, and contrast political discourse on Twitter.
 
+
+Misc
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * Spanish (proficient)
+
+* What I (currently) do for fun:
+
+     * Cooking~~
+         * Home-made pasta
+         * BBQ/Smoking
+     * Gardening
+         * Might have to add a section on this to the blog for this at some point
+     * Rock Climbing/Bouldering
+         * I'm not very good
+     * String instruments (and maybe piano one day?)
+     * Lil' vidja. Currently playing:
+         * Factorio
+         * Genshin (don't judge please)
+
+
+
+
+FOR DELETION: 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
@@ -100,16 +129,3 @@ Programming Languages
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
