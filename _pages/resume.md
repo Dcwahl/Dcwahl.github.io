@@ -4,6 +4,7 @@ Diego Wahl
 
 -------------------     ----------------------------
 diegowahl@gmail.com
+
 301-332-8937
 
 Skills
@@ -19,8 +20,7 @@ Skills
 #### Regular Use:
 * MongoDB
 * JSON, CSS, HTML
-* GCP (various)
-
+* GCP Tools (various)
 
 #### Occasional Use/Scarred into Memory:
 * Intersystems Cache (M/MUMPS)
@@ -34,17 +34,24 @@ Education
 
 2015-2019 
 :   **BA** Applied Math; Washington University in St. Louis
+
     **BA** Physics; Washington University in St. Louis
 
 
-Experience
+Work Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Epic Systems: Technical Service Engineer (Provider Reimbursement/Professional Billing)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+September 2019 - March 2021 
+
+* Provided technical support for provider compensation systems at a number of large healthcare systems. 
+* Meeting management, issue tracking and resolution, as well as project management to help support regular upgrades as well as push for best practices.
+* Database management and support.
+* SME on collections agency workflow, communication, and integration.
+* Developed custom reports and queries for customer needs both in SQL and 
+* Strong written and verbal communication.
+
 
 * First item
 
@@ -58,7 +65,7 @@ Also with a short description.
 Technical Experience
 --------------------
 
-My Cool Side Project
+### Data Science/ML:
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
