@@ -1,5 +1,5 @@
 
-Johnny Coder
+Diego Wahl
 ============
 
 -------------------     ----------------------------
@@ -7,6 +7,29 @@ Johnny Coder
 MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
+
+Skills
+---------
+### Programming Languages, Tools, and Technologies:
+
+#### Daily Use:
+* Python
+    - Pandas, SKLearn, Keras, Tensorflow, NLTK, Beautiful Soup, Selenium, Apache Spark, Streamlit, various visualization packages.
+* SSMS and SQLite
+* git
+
+#### Regular Use:
+* MongoDB
+* JSON, CSS, HTML
+* GCP (various)
+* MATLAB
+* R
+
+#### Occasional Use/Scarred into Memory:
+* Intersystems Cache (M/MUMPS)
+* LaTeX
+
+
 
 Education
 ---------
