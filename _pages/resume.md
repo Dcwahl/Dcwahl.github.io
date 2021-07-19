@@ -62,16 +62,16 @@ Technical Experience
 ### Data Science/ML Projects:
 
 #### EMNIST Classification
-:   Built variety of models to solve problem of hadnwritten digit classification in the context of the 62 class EMNIST dataset. Approaches included:
+Built variety of models to solve problem of hadnwritten digit classification in the context of the 62 class EMNIST dataset. Approaches included:
 
-    * Applied **unsupervised learning** techniques (TSNE, PCA, MI) in order to drive simple classification models such as standard **Logistic Regression, Random Forest, XGBoost** with a acceptable accuracy and runtime.
-    * **Convolutional Neural Network** with **Keras**
+* Applied **unsupervised learning** techniques (TSNE, PCA, MI) in order to drive simple classification models such as standard **Logistic Regression, Random Forest, XGBoost** with a acceptable accuracy and runtime.
+* **Convolutional Neural Network** with **Keras**
 
 #### Twitter Data Pipeline
-:   Implemented data pipeline to intake tweets via Twitter API and Tweepy, perform analysis in Python, and interface with **MongoDB**, with particular goal of permitting large scale data handling.
+Implemented data pipeline to intake tweets via Twitter API and Tweepy, perform analysis in Python, and interface with **MongoDB**, with particular goal of permitting large scale data handling.
 
 #### Twitter NLP; exploring political discourse
-:   Applied variety of unsupervised learning techniques, including (though not limited to) **VADER** sentiment analysis, **CorEx** topic modeling, as well as **Scattertext** and **WordCloud** Python packages for visualization, in order to explore, compare, and contrast political discourse on Twitter.
+Applied variety of unsupervised learning techniques, including (though not limited to) **VADER** sentiment analysis, **CorEx** topic modeling, as well as **Scattertext** and **WordCloud** Python packages for visualization, in order to explore, compare, and contrast political discourse on Twitter.
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
